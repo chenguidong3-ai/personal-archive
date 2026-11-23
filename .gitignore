@@ -1,0 +1,8 @@
+# Safety net: never commit credential or private-data files
+*.env
+*credential*
+*secret*
+*password*
+*.key
+*.pem
+id_rsa*
