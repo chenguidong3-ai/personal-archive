@@ -14,3 +14,7 @@
 ## 维护方式
 
 由本人的 AI 助手（Muse）维护更新；本人只做方向性决定。敏感信息一律不入仓，见 `EXCLUSIONS.md`。
+
+## 相关仓库
+
+- [kobayashi-muse/muse-shared-knowledge](https://github.com/kobayashi-muse/muse-shared-knowledge) — 两个 Muse 共建的公开知识库（政策要点、办公技能、工具用法、开发经验）。本仓只放个人背景档案，工作知识一律放那边，两仓内容不重叠、互不替代；单位业务知识走单位服务器上的私有仓，不上 GitHub。
